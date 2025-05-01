@@ -19,9 +19,9 @@ const VisionMissionValues = () => {
           </div>
           <h3>Vision</h3>
           <p>
-            To create a strong foundation where children are equipped with the
-            skills, values, and confidence needed to thrive in an ever-changing
-            world.
+          To be a one stop, exceptional education provider, 
+          delivering holistic learning experiences that fosters 
+          academic excellence, creativity and character development.
           </p>
         </div>
         <div className="vmv-card">
@@ -30,9 +30,10 @@ const VisionMissionValues = () => {
           </div>
           <h3>Mission</h3>
           <p>
-            At Suesland Academy, our mission is to empower every student through a
-            transformative education that champions academic excellence, nurtures
-            all aspects of personal growth, and embraces the richness of diversity.
+          Our mission is to provide a comprehensive range 
+          of educational services, leveraging innovative 
+          teaching methods, cutting edge technology and a supportive 
+          community, we strive to empower leaners to reach their full potential.
           </p>
         </div>
         <div className="vmv-card">
